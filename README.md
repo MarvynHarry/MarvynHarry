@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a software developer with a focus on creating 
 - Contributing to open-source projects and sharing knowledge with the developer community.
 
 ## 💬 Let's Connect!
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/marvyn-harryson-j-625285171/)
-- Email: [your.email@example.com](mailto:marvynharry@gmail.com)
+- LinkedIn: [Marvyn Harryson J.](https://www.linkedin.com/in/marvyn-harryson-j-625285171/)
+- Email: [Marvyn Harryson](mailto:marvynharry@gmail.com)
 
 ---
 
