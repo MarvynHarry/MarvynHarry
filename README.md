@@ -20,6 +20,9 @@ Welcome to my GitHub profile! I'm a software developer with a focus on creating 
 - Building new features in **Angular** and **.NET** for user-focused applications.
 - Contributing to open-source projects and sharing knowledge with the developer community.
 
+## ☕️ Support My Work
+If you enjoy my work or want to support what I do, feel free to [Buy Me a Coffee](https://buymeacoffee.com/marvynharry)!
+
 ## 💬 Let's Connect!
 - LinkedIn: [Marvyn Harryson J.](https://www.linkedin.com/in/marvyn-harryson-j-625285171/)
 - Email: [Marvyn Harryson](mailto:marvynharry@gmail.com)
