@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Marvyn Harryson! 👋
 
-<!--
-**MarvynHarry/MarvynHarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software developer with a focus on creating efficient, user-centric applications. Here you'll find some of my projects, contributions, and explorations in the world of software development.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 💼 Currently focused on **.NET** and **Angular** development.
+- 🎓 Graduated from **Universidad Domínico Americano** and **ITLA**, where I built a strong foundation in software engineering.
+- 🌐 Fluent in **English** and **Spanish**.
+- 🔧 Passionate about building scalable and maintainable solutions with a strong emphasis on user experience.
+- 📚 Lifelong learner, always exploring new technologies and development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Frontend:** Angular, HTML5, CSS3, JavaScript, TypeScript
+- **Backend:** .NET, C#, ASP.NET Core
+- **Databases:** SQL Server, MySQL
+- **Version Control:** Git, GitHub
+- **Tools & Platforms:** Visual Studio, Azure DevOps, Docker
+
+## 📈 What I'm Working On
+- Building new features in **Angular** and **.NET** for user-focused applications.
+- Contributing to open-source projects and sharing knowledge with the developer community.
+
+## 💬 Let's Connect!
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/marvyn-harryson-j-625285171/)
+- Email: [your.email@example.com](mailto:marvynharry@gmail.com)
+
+---
+
+### My Motto: "Technology should serve people, not the other way around."
