@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a software developer with a focus on creating 
 
 ## 🛠️ Skills & Technologies
 - **Frontend:** Angular, HTML5, CSS3, JavaScript, TypeScript
-- **Backend:** .NET, C#, ASP.NET Core
-- **Databases:** SQL Server, MySQL
+- **Backend:** .NET, C#, ASP.NET Core, VB.Net
+- **Databases:** SQL Server, MySQL, Oracle
 - **Version Control:** Git, GitHub
 - **Tools & Platforms:** Visual Studio, Azure DevOps, Docker
 
