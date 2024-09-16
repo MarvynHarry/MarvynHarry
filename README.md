@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a software developer with a focus on creating efficient, user-centric applications. Here you'll find some of my projects, contributions, and explorations in the world of software development.
 
+[![roadmap.sh](https://roadmap.sh/card/tall/66e745b2f34c8868ec75e1af?variant=dark)](https://roadmap.sh)
+
 ## 👨‍💻 About Me
 - 💼 Currently focused on **.NET** and **Angular** development.
 - 🎓 Graduated from **Universidad Domínico Americano** and **ITLA**, where I built a strong foundation in software engineering.
