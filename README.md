@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a software developer with a focus on creating efficient, user-centric applications. Here you'll find some of my projects, contributions, and explorations in the world of software development.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66e745b2f34c8868ec75e1af?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66e745b2f34c8868ec75e1af?variant=dark&roadmaps=api-design%2Caspnet-core%2Cbackend%2Cfrontend" alt="roadmap.sh"/></a>
 
 ## 👨‍💻 About Me
 - 💼 Currently focused on **.NET** and **Angular** development.
