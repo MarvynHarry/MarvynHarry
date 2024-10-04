@@ -82,7 +82,7 @@ contact:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarvynHarry&theme=transparent&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvynHarry&layout=compact&langs_count=10&card_width=320&theme=transparent&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvynHarry&layout=compact&langs_count=10&card_width=440&theme=transparent&show_icons=true" />
 </a>
 
 <!---
