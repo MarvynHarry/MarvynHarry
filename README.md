@@ -32,49 +32,31 @@ contact:
 - **Version Control:** Git, GitHub
 - **Tools & Platforms:** Visual Studio, Azure DevOps, Docker
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
-![Blazor WebAssembly](https://img.shields.io/badge/Blazor%20WebAssembly-512BD4?style=flat&logo=blazor&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Oracle PL/SQL](https://img.shields.io/badge/Oracle%20PL/SQL-F80000?style=flat&logo=oracle&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Pipelines](https://img.shields.io/badge/Pipelines-2563EB?style=flat&logo=azure-pipelines&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-0a97f5?style=flat&logo=devops&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%230A9DBB.svg?style=flat&logo=github-actions&logoColor=white)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-FF6C37?style=flat&logo=postman&logoColor=white)
-![API](https://img.shields.io/badge/API-005571?style=flat&logo=api&logoColor=white)
-![API Integration](https://img.shields.io/badge/API%20Integration-3C873A?style=flat&logo=api&logoColor=white)
-![API Testing](https://img.shields.io/badge/API%20Testing-FB9829?style=flat&logo=postman&logoColor=white)
-![API Documentation](https://img.shields.io/badge/API%20Documentation-0078D6?style=flat&logo=readthedocs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-FF9E0F?style=flat&logo=testing-library&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
-![MVC Framework](https://img.shields.io/badge/MVC%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0e83cd?style=flat&logo=microservices&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=amazon-dynamodb&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrum&logoColor=white)
+#### I feel confident with the following programming languages
+[![Programming Languages](https://skillicons.dev/icons?i=cs,ts,js)](https://skillicons.dev)
+
+#### I have experience working with these web frameworks and libraries
+[![Web Frameworks](https://skillicons.dev/icons?i=angular,dotnet,bootstrap,css,tailwind)](https://skillicons.dev)
+
+#### I've developed various applications using the following databases
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+
+#### I have built several `CI/CD` pipelines with
+[![CI/CD](https://skillicons.dev/icons?i=githubactions,azuredevops)](https://skillicons.dev)
+
+#### I enjoy using container technologies like
+[![Containers](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+
+#### I manage version control and repositories using
+[![Version Control](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
+
+#### I develop and test APIs using
+[![API Development & Testing](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+
+#### My preferred development tools
+[![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+
+
 
 
 
