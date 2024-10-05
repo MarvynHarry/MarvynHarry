@@ -23,15 +23,6 @@ contact:
   linkedin: https://www.linkedin.com/in/marvynharry/
 ```
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarvynHarry&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🛠️ Skills & Technologies
-- **Frontend:** Angular, HTML5, CSS3, JavaScript, TypeScript
-- **Backend:** .NET, C#, ASP.NET Core, VB.Net
-- **Databases:** SQL Server, MySQL, Oracle
-- **Version Control:** Git, GitHub
-- **Tools & Platforms:** Visual Studio, Azure DevOps, Docker
-
 #### I feel confident with the following programming languages
 [![Programming Languages](https://skillicons.dev/icons?i=cs,ts,js)](https://skillicons.dev)
 
@@ -57,10 +48,8 @@ contact:
 [![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
 
+### Here are some stats about me 📈
 
-
-
-### 📈 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarvynHarry&theme=transparent&show_icons=true" />
 </a>
@@ -68,7 +57,7 @@ contact:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvynHarry&layout=compact&langs_count=6&card_width=300&theme=transparent&show_icons=true" />
 </a>
 
-<h3>Where to find me</h3>
+### Where to find me
 <p>
   <a href="https://github.com/MarvynHarry" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/_Harrys01" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
