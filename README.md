@@ -47,15 +47,17 @@ contact:
 #### My preferred development tools
 [![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
-
-### Here are some stats about me 📈
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarvynHarry&theme=transparent&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvynHarry&layout=compact&langs_count=6&card_width=300&theme=transparent&show_icons=true" />
-</a>
+<details> 
+  <summary><b>📊 My Github Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/MarvynHarry/github-readme-stats"><img alt="Safdar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarvynHarry&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+<br/>
+  &nbsp;
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvynHarry&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+  <br/>
+  </p>
+</details>
 
 ### Where to find me
 <p>
@@ -65,6 +67,7 @@ contact:
   <a href="https://instagram.com/_Harrys01" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:marvynharry@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
 <!---
 MarvynHarry/MarvynHarry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
