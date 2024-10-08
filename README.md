@@ -56,6 +56,9 @@ contact:
   &nbsp;
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvynHarry&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
   <br/>
+	<a href="https://git.io/streak-stats">
+	  <img src="https://streak-stats.demolab.com/?user=MarvynHarry&theme=tokyonight" alt="GitHub Streak" />
+	</a>
   </p>
 </details>
 
