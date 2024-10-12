@@ -27,7 +27,7 @@ contact:
 [![Programming Languages](https://skillicons.dev/icons?i=cs,ts,js)](https://skillicons.dev)
 
 #### I have experience working with these web frameworks and libraries
-[![Web Frameworks](https://skillicons.dev/icons?i=angular,dotnet,bootstrap,css,tailwind)](https://skillicons.dev)
+[![Web Frameworks](https://skillicons.dev/icons?i=angular,dotnet,bootstrap,html,css,tailwind,wasm)](https://skillicons.dev)
 
 #### I've developed various applications using the following databases
 [![Databases](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
