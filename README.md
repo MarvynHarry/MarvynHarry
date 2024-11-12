@@ -51,8 +51,6 @@ contact:
   <summary><b>📊 My Github Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/MarvynHarry/github-readme-stats"><img alt="Safdar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarvynHarry&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
   &nbsp;
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvynHarry&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
   <br/>
