@@ -33,13 +33,10 @@ contact:
 [![Databases](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 #### I have built several `CI/CD` pipelines with
-[![CI/CD](https://skillicons.dev/icons?i=githubactions,azuredevops)](https://skillicons.dev)
-
-#### I enjoy using container technologies like
-[![Containers](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+[![CI/CD](https://skillicons.dev/icons?i=githubactions,azure,aws,docker,kubernetes)](https://skillicons.dev)
 
 #### I manage version control and repositories using
-[![Version Control](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
+[![Version Control](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
 #### I develop and test APIs using
 [![API Development & Testing](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
