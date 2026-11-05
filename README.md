@@ -1,72 +1,50 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Hi+there%2C+I'm+Marvyn+Harryson!+%F0%9F%91%8B;Welcome+to+my+profile!)](https://git.io/typing-svg)
-```yaml
-name: Marvyn Harryson
-role: Full Stack Developer | .NET Developer | Angular Developer
-experience: "+5 years"
-skills:
-  - 💻 Software Development
-  - 🔷 .NET Framework
-  - 🅰️ Angular
-  - 🔄 Full Stack Development
-  - ✅ Problem Solving
+<a href="https://marvynharryson.com">
+  <img src="./assets/banner.svg" alt="Marvyn Harryson, Senior .NET and Cloud Engineer" width="100%" />
+</a>
 
-about: |
-    As an experienced Full Stack Developer, I specialize in building dynamic, user-centric applications
-    using .NET and Angular. I have a strong passion for crafting scalable, maintainable, and efficient
-    solutions that meet client needs. Proficient in both frontend and backend development, I build 
-    responsive UIs and robust APIs. I am dedicated to continuous learning and thrive on 
-    developing features that enhance user experiences and streamline business processes.
-
-contact:
-  email: marvynharry@gmail.com
-  github: https://github.com/MarvynHarry
-  linkedin: https://www.linkedin.com/in/marvynharry/
-```
-
-#### I feel confident with the following programming languages
-[![Programming Languages](https://skillicons.dev/icons?i=cs,ts,js)](https://skillicons.dev)
-
-#### I have experience working with these web frameworks and libraries
-[![Web Frameworks](https://skillicons.dev/icons?i=angular,dotnet,bootstrap,html,css,tailwind,wasm)](https://skillicons.dev)
-
-#### I've developed various applications using the following databases
-[![Databases](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-
-#### I have built several `CI/CD` pipelines with
-[![CI/CD](https://skillicons.dev/icons?i=githubactions,azure,aws,docker,kubernetes)](https://skillicons.dev)
-
-#### I manage version control and repositories using
-[![Version Control](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
-
-#### I develop and test APIs using
-[![API Development & Testing](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-
-#### My preferred development tools
-[![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
-
-<details> 
-  <summary><b>📊 My Github Stats</b></summary>
-  <br/>
-  <p align="center">
-  &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarvynHarry&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
-  <br/>
-	<a href="https://git.io/streak-stats">
-	  <img src="https://streak-stats.demolab.com/?user=MarvynHarry&theme=tokyonight" alt="GitHub Streak" />
-	</a>
-  </p>
-</details>
-
-### Where to find me
-<p>
-  <a href="https://github.com/MarvynHarry" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/_Harrys01" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/MarvynHarry" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/_Harrys01" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:marvynharry@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://marvynharryson.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-marvynharryson.com-d9a05b?style=for-the-badge&labelColor=101214" /></a>
+  <a href="https://calendly.com/marvynharry/30min"><img alt="Book a call" src="https://img.shields.io/badge/Book_a_call-30_min-d9a05b?style=for-the-badge&logo=calendly&logoColor=white&labelColor=101214" /></a>
+  <a href="https://www.linkedin.com/in/marvynharry/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-marvynharry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101214" /></a>
+  <a href="mailto:marvynharry@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marvynharry@gmail.com-e9e7e2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101214" /></a>
 </p>
 
-<!---
-MarvynHarry/MarvynHarry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=D9A05B&center=true&vCenter=true&width=720&lines=Payment+platforms+and+bank+integrations;Moving+legacy+.NET+to+modern+.NET;Microservices+on+AWS+and+Azure;SQL+that+stays+fast+under+load" alt="What I work on" />
+</p>
+
+### Hi, I'm Marvyn
+
+I'm a .NET and cloud engineer from Santo Domingo, Dominican Republic. I've been writing software for a living since 2019, mostly for banks, insurance companies and payment platforms, where a small bug can turn into a real money problem.
+
+Most of my days are backend work: C# services, SQL that has to stay fast when transactions pile up, and integrations with banks and ERP systems. I've also moved a good amount of VB.NET and .NET Framework code to modern .NET, and when a project needs it I build the frontend too, usually with Angular or React.
+
+Right now I'm open to freelance projects and full-time roles. If you want to talk, grab a slot on my calendar or send me an email.
+
+### Tools I use every day
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,angular,react,nodejs,py&perline=8" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions&perline=8" alt="Cloud and DevOps" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,git,postman,visualstudio,vscode&perline=8" alt="Data and tools" />
+</p>
+
+I also work with SQL Server, Oracle, Azure SQL, Blazor, Entity Framework Core, Service Bus, Event Hubs, Application Insights, OpenTelemetry, xUnit and SonarQube.
+
+### My GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MarvynHarry&theme=dark&background=101214&border=2b2f35&ring=D9A05B&fire=D9A05B&currStreakLabel=D9A05B&sideLabels=E9E7E2&dates=A1A5AC&currStreakNum=E9E7E2&sideNums=E9E7E2" alt="GitHub streak" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarvynHarry/MarvynHarry/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarvynHarry/MarvynHarry/output/github-snake.svg" />
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/MarvynHarry/MarvynHarry/output/github-snake.svg" />
+</picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarvynHarry&color=d9a05b&style=flat-square&label=Profile+views" alt="Profile views" />
+</p>
+
+<img src="./assets/footer.svg" alt="" width="100%" />

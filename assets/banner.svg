@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Marvyn Harryson, Senior .NET and Cloud Engineer">
+  <style>
+    .bg { fill: #101214; }
+    .name { font: 700 64px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #e9e7e2; letter-spacing: -1.5px; }
+    .role { font: 400 22px Consolas, 'Courier New', monospace; fill: #d9a05b; }
+    .meta { font: 400 18px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #a1a5ac; }
+    .tag { font: 400 15px Consolas, 'Courier New', monospace; fill: #a1a5ac; }
+    .caret { fill: #d9a05b; animation: blink 1s step-end infinite; }
+    .typing { animation: type 2.2s steps(30) 0.4s both; }
+    .flow { fill: none; stroke: #d9a05b; stroke-width: 1.4; stroke-dasharray: 2 12; opacity: 0.35; animation: flow 6s linear infinite; }
+    .flow.b { opacity: 0.18; animation-duration: 10s; }
+    .fade { animation: fade 1s ease 0.2s both; }
+    .dot { fill: #d9a05b; animation: pulse 2.4s ease-out infinite; transform-origin: 72px 238px; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes type { from { width: 0; } to { width: 344px; } }
+    @keyframes flow { to { stroke-dashoffset: -140; } }
+    @keyframes fade { from { opacity: 0; transform: translateY(8px); } }
+    @keyframes pulse { 0% { opacity: 1; } 70%, 100% { opacity: 0.35; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect class="bg" width="1200" height="300" rx="16"/>
+  <path class="flow" d="M560 260 C 760 230, 820 90, 1000 110 S 1150 60, 1220 70"/>
+  <path class="flow b" d="M500 300 C 720 270, 860 160, 1020 180 S 1160 140, 1220 150"/>
+
+  <g class="fade">
+    <text class="name" x="64" y="118">Marvyn Harryson</text>
+  </g>
+
+  <!-- Rol con efecto de escritura: el recorte se ensancha por pasos -->
+  <clipPath id="typing"><rect class="typing" x="64" y="138" height="40" width="344"/></clipPath>
+  <text class="role" x="66" y="166" clip-path="url(#typing)">Senior .NET &amp; Cloud Engineer</text>
+  <rect class="caret" x="412" y="148" width="11" height="24"/>
+
+  <text class="meta" x="66" y="206">Payments, banking and insurance systems on AWS and Azure</text>
+
+  <circle class="dot" cx="72" cy="238" r="5"/>
+  <text class="tag" x="86" y="243">Open to freelance work and full-time roles · Santo Domingo, DR · EN / ES</text>
+
+  <g transform="translate(1020 56)" opacity="0.9">
+    <rect width="116" height="116" rx="22" fill="#181b1f" stroke="#2b2f35"/>
+    <text x="58" y="74" text-anchor="middle" style="font: 700 44px 'Segoe UI', Arial, sans-serif; fill: #d9a05b;">MH</text>
+  </g>
+</svg>

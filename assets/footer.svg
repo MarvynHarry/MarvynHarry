@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="">
+  <style>
+    .w1 { fill: #d9a05b; opacity: 0.85; animation: drift 9s ease-in-out infinite alternate; }
+    .w2 { fill: #d9a05b; opacity: 0.35; animation: drift 13s ease-in-out infinite alternate-reverse; }
+    .w3 { fill: #2b2f35; animation: drift 17s ease-in-out infinite alternate; }
+    @keyframes drift { to { transform: translateX(-120px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <path class="w3" d="M0 70 C 160 40, 320 100, 480 70 S 800 40, 960 70 S 1280 100, 1440 70 V 120 H 0 Z"/>
+  <path class="w2" d="M0 82 C 180 56, 340 108, 520 82 S 860 56, 1040 82 S 1360 108, 1440 82 V 120 H 0 Z"/>
+  <path class="w1" d="M0 96 C 200 76, 380 116, 560 96 S 900 76, 1080 96 S 1380 116, 1440 96 V 120 H 0 Z"/>
+</svg>
